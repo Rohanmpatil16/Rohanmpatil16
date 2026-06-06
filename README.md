@@ -25,4 +25,26 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohanmpatil16&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanmpatil16&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohanmpatil16&theme=tokyonight)
+
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohanmpatil16&theme=tokyo-night)](https://github.com/Rohanmpatil16)
+
+## 🏆 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ROHANMPATIL?theme=dark&font=Karma)
+
+## 🌐 Connect with Me
+
+[LinkedIn](www.linkedin.com/in/rohan-patil-04a457265)
+
+[Portfolio](https://yourportfolio.com)
+
+[LeetCode](https://leetcode.com/yourusername)
+
 
