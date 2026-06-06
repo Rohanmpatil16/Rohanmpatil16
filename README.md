@@ -29,13 +29,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohanmpatil16&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rohanmpatil16&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanmpatil16&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohanmpatil16&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohanmpatil16&theme=tokyonight)
 
 [![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohanmpatil16&theme=tokyo-night)](https://github.com/Rohanmpatil16)
