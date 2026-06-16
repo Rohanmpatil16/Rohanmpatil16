@@ -77,14 +77,14 @@ I am a final-year Computer Science and Engineering student focused on engineerin
 
 ---
 
-## 🏆 Algorithmic Milestones
+<!--## 🏆 Algorithmic Milestones
 
 <p align="center">
   <a href="https://leetcode.com/u/ROHANMPATIL/">
     <img src="https://leetcard.jacoblin.cool/ROHANMPATIL?theme=dark&font=Karma" alt="LeetCode Metrics" />
   </a>
 </p>
-
+-->
 ---
 
 <p align="center">🌟 <i>If you find my developments or technical open-source code helpful, consider starring my repositories!</i> 🌟</p>
