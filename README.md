@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rohan-patil-04a457265"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href=""><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/ROHANMPATIL/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
@@ -77,14 +77,14 @@ I am a final-year Computer Science and Engineering student focused on engineerin
 
 ---
 
-<!--## 🏆 Algorithmic Milestones
+## 🏆 Algorithmic Milestones
 
 <p align="center">
   <a href="https://leetcode.com/u/ROHANMPATIL/">
     <img src="https://leetcard.jacoblin.cool/ROHANMPATIL?theme=dark&font=Karma" alt="LeetCode Metrics" />
   </a>
 </p>
--->
+
 ---
 
 <p align="center">🌟 <i>If you find my developments or technical open-source code helpful, consider starring my repositories!</i> 🌟</p>
