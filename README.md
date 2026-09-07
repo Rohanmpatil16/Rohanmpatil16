@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rohan Patil 👋</h1>
 <p align="center">
-  <strong>Java Full Stack & MERN Developer | DSA Enthusiast | Problem Solver</strong>
+  <strong>Java Full Stack | DSA Enthusiast | Problem Solver</strong>
 </p>
 
 <p align="center">
