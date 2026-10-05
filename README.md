@@ -74,18 +74,14 @@ I am a final-year Computer Science and Engineering student focused on engineerin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohanmpatil16&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanmpatil16&layout=compact&theme=dark&hide_border=true&hide=html,css" width="48%" />
+<!-- GitHub Stats & Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=Rohanmpatil16&show_icons=true&theme=dark&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanmpatil16&layout=compact&theme=dark&hide=html,css" width="49%" />
 
 <br/><br/>
 
-<!-- GitHub Streak Stats: Total Contributions, Current Streak & Longest Streak -->
-<img src="https://streak-stats.demolab.com/?user=Rohanmpatil16&theme=dark&hide_border=true" width="97%" />
-
-<br/><br/>
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanmpatil16&theme=react-dark&hide_border=true" width="97%" />
+<!-- GitHub Streak Stats (Total Contributions, Current Streak & Longest Streak) -->
+<img src="https://streak-stats.demolab.com?user=Rohanmpatil16&theme=dark" width="98%" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -95,9 +91,9 @@ I am a final-year Computer Science and Engineering student focused on engineerin
 
 <div align="center">
 
-<!-- Working LeetCode Card API -->
+<!-- Verified LeetCode Analytics Badge -->
 <a href="https://leetcode.com/u/rohanmpatil18/">
-  <img src="https://leetcard.jacoblin.cool/rohanmpatil18?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="60%" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=rohanmpatil18&theme=dark" width="60%" alt="LeetCode Analytics" />
 </a>
 
 </div>
