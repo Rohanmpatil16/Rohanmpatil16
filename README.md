@@ -79,7 +79,13 @@ I am a final-year Computer Science and Engineering student focused on engineerin
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanmpatil16&theme=dark&hide_border=true" width="97%" />
+<!-- GitHub Streak Stats: Total Contributions, Current Streak & Longest Streak -->
+<img src="https://streak-stats.demolab.com/?user=Rohanmpatil16&theme=dark&hide_border=true" width="97%" />
+
+<br/><br/>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanmpatil16&theme=react-dark&hide_border=true" width="97%" />
 
 </div>
 
@@ -89,8 +95,9 @@ I am a final-year Computer Science and Engineering student focused on engineerin
 
 <div align="center">
 
+<!-- Working LeetCode Card API -->
 <a href="https://leetcode.com/u/rohanmpatil18/">
-  <img src="https://leetcode-stats-badge.herokuapp.com/?username=rohanmpatil18&theme=dark" alt="LeetCode Stats" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/rohanmpatil18?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="60%" />
 </a>
 
 </div>
