@@ -80,8 +80,8 @@ I am a final-year Computer Science and Engineering student focused on engineerin
 
 <br/><br/>
 
-<!-- GitHub Streak Stats (Total Contributions, Current Streak & Longest Streak) -->
-<img src="https://streak-stats.demolab.com?user=Rohanmpatil16&theme=dark" width="98%" alt="GitHub Streak Stats" />
+<!-- Fixed GitHub Streak Stats -->
+<img src="https://github-readme-stats.vercel.app/api/streak?username=Rohanmpatil16&theme=dark" width="98%" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -91,9 +91,9 @@ I am a final-year Computer Science and Engineering student focused on engineerin
 
 <div align="center">
 
-<!-- Verified LeetCode Analytics Badge -->
+<!-- LeetCode Badge (Alternative layout using shields.io for guaranteed uptime, or check username alignment) -->
 <a href="https://leetcode.com/u/rohanmpatil18/">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=rohanmpatil18&theme=dark" width="60%" alt="LeetCode Analytics" />
+  <img src="https://img.shields.io/badge/LeetCode-rohanmpatil18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
 </a>
 
 </div>
